@@ -1,0 +1,156 @@
+{
+  "brand": {
+    "name": "Online Menu",
+    "tagline": "Enjoy the finest food and drinks"
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "welcome": "Welcome to",
+    "subtitle": "Discover a unique dining experience",
+    "cta": "Explore Menu"
+  },
+  "categories": {
+    "all": "All",
+    "hotDrinks": "Hot Drinks",
+    "coldDrinks": "Cold Drinks",
+    "coffee": "Coffee",
+    "desserts": "Desserts",
+    "smoothies": "Smoothies",
+    "mojito": "Mojito",
+    "iceCream": "Ice Cream",
+    "breakfast": "Breakfast",
+    "juices": "Fresh Juices"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "viewDetails": "View Details",
+    "price": "Price",
+    "currency": "EGP"
+  },
+  "search": {
+    "placeholder": "Search for a product...",
+    "noResults": "No results found"
+  },
+  "product": {
+    "size": "Choose Size",
+    "extras": "Optional Extras",
+    "total": "Total"
+  },
+  "sizes": {
+    "small": "Small",
+    "medium": "Medium",
+    "large": "Large"
+  },
+  "extras": {
+    "whippedCream": "Whipped Cream",
+    "extraShot": "Extra Shot",
+    "caramel": "Caramel Sauce",
+    "chocolate": "Chocolate Sauce"
+  },
+  "offers": {
+    "title": "Special Offers",
+    "off": "OFF",
+    "offer1": {
+      "title": "Morning Deal",
+      "description": "Discount on all hot drinks from 7 AM to 11 AM"
+    },
+    "offer2": {
+      "title": "Happy Hour",
+      "description": "Discount on smoothies and juices daily from 3 PM to 5 PM"
+    },
+    "offer3": {
+      "title": "Weekend Special",
+      "description": "Discount on desserts every Friday and Saturday"
+    }
+  },
+  "qr": {
+    "title": "Share Menu",
+    "instructions": "Scan the code or share it with friends",
+    "download": "Download",
+    "share": "Share",
+    "shareText": "Check out Online Menu"
+  },
+  "items": {
+    "espresso": {
+      "name": "Espresso",
+      "description": "Rich and concentrated Italian coffee"
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "description": "Espresso with steamed milk and creamy foam"
+    },
+    "latte": {
+      "name": "Latte",
+      "description": "Smooth coffee with frothed milk"
+    },
+    "mocha": {
+      "name": "Mocha",
+      "description": "Delicious chocolate coffee"
+    },
+    "berrySmothie": {
+      "name": "Berry Smoothie",
+      "description": "Refreshing blend of fresh berries"
+    },
+    "mangoSmothie": {
+      "name": "Mango Smoothie",
+      "description": "Fresh tropical mango"
+    },
+    "chocolateCake": {
+      "name": "Chocolate Cake",
+      "description": "Rich Belgian chocolate cake"
+    },
+    "cheeseCake": {
+      "name": "Cheesecake",
+      "description": "Creamy cheesecake with berry sauce"
+    },
+    "classicMojito": {
+      "name": "Classic Mojito",
+      "description": "Fresh mint with lime and soda"
+    },
+    "strawberryMojito": {
+      "name": "Strawberry Mojito",
+      "description": "Fresh strawberries with refreshing mint"
+    },
+    "vanillaIceCream": {
+      "name": "Vanilla Ice Cream",
+      "description": "Premium vanilla ice cream with chocolate sauce"
+    },
+    "chocolateIceCream": {
+      "name": "Chocolate Ice Cream",
+      "description": "Rich and creamy chocolate ice cream"
+    },
+    "englishBreakfast": {
+      "name": "English Breakfast",
+      "description": "Fried eggs with toast and fresh avocado"
+    },
+    "pancakes": {
+      "name": "Pancakes",
+      "description": "Fluffy pancakes with honey and fruits"
+    },
+    "orangeJuice": {
+      "name": "Orange Juice",
+      "description": "100% fresh orange juice"
+    },
+    "mixedJuice": {
+      "name": "Mixed Juice",
+      "description": "Blend of seasonal fruits"
+    }
+  },
+  "footer": {
+    "followUs": "Follow Us",
+    "rights": "All Rights Reserved",
+    "workingHours": "Working Hours",
+    "everyday": "Everyday",
+    "address": "Address",
+    "phone": "Phone"
+  },
+  "language": {
+    "ar": "العربية",
+    "en": "English"
+  }
+}

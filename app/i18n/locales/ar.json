@@ -1,0 +1,156 @@
+{
+  "brand": {
+    "name": "Online Menu",
+    "tagline": "استمتع بأشهى المأكولات والمشروبات"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "menu": "القائمة",
+    "about": "من نحن",
+    "contact": "اتصل بنا"
+  },
+  "hero": {
+    "welcome": "مرحباً بك في",
+    "subtitle": "اكتشف تجربة طعام فريدة من نوعها",
+    "cta": "استكشف القائمة"
+  },
+  "categories": {
+    "all": "الكل",
+    "hotDrinks": "مشروبات ساخنة",
+    "coldDrinks": "مشروبات باردة",
+    "coffee": "قهوة",
+    "desserts": "الحلويات",
+    "smoothies": "سموذي",
+    "mojito": "موهيتو",
+    "iceCream": "آيس كريم",
+    "breakfast": "فطور",
+    "juices": "عصائر طازجة"
+  },
+  "menu": {
+    "title": "قائمة الطعام",
+    "viewDetails": "عرض التفاصيل",
+    "price": "السعر",
+    "currency": "ج.م"
+  },
+  "search": {
+    "placeholder": "ابحث عن منتج...",
+    "noResults": "لا توجد نتائج للبحث"
+  },
+  "product": {
+    "size": "اختر الحجم",
+    "extras": "إضافات اختيارية",
+    "total": "الإجمالي"
+  },
+  "sizes": {
+    "small": "صغير",
+    "medium": "وسط",
+    "large": "كبير"
+  },
+  "extras": {
+    "whippedCream": "كريمة مخفوقة",
+    "extraShot": "شوت إضافي",
+    "caramel": "صوص كراميل",
+    "chocolate": "صوص شوكولاتة"
+  },
+  "offers": {
+    "title": "عروض خاصة",
+    "off": "خصم",
+    "offer1": {
+      "title": "عرض الصباح",
+      "description": "خصم على جميع المشروبات الساخنة من 7 ص إلى 11 ص"
+    },
+    "offer2": {
+      "title": "وقت السعادة",
+      "description": "خصم على السموذي والعصائر يومياً من 3 م إلى 5 م"
+    },
+    "offer3": {
+      "title": "عطلة نهاية الأسبوع",
+      "description": "خصم على الحلويات كل يوم جمعة وسبت"
+    }
+  },
+  "qr": {
+    "title": "مشاركة المنيو",
+    "instructions": "امسح الكود أو شاركه مع أصدقائك",
+    "download": "تحميل",
+    "share": "مشاركة",
+    "shareText": "تفقد منيو Online Menu"
+  },
+  "items": {
+    "espresso": {
+      "name": "اسبريسو",
+      "description": "قهوة إيطالية غنية ومركزة"
+    },
+    "cappuccino": {
+      "name": "كابتشينو",
+      "description": "اسبريسو مع حليب مبخر ورغوة كريمية"
+    },
+    "latte": {
+      "name": "لاتيه",
+      "description": "قهوة ناعمة مع حليب مخفوق"
+    },
+    "mocha": {
+      "name": "موكا",
+      "description": "قهوة بالشوكولاتة اللذيذة"
+    },
+    "berrySmothie": {
+      "name": "سموذي التوت",
+      "description": "مزيج منعش من التوت الطازج"
+    },
+    "mangoSmothie": {
+      "name": "سموذي المانجو",
+      "description": "مانجو استوائية طازجة"
+    },
+    "chocolateCake": {
+      "name": "كيك الشوكولاتة",
+      "description": "كيك غني بالشوكولاتة البلجيكية"
+    },
+    "cheeseCake": {
+      "name": "تشيز كيك",
+      "description": "تشيز كيك كريمي مع صوص التوت"
+    },
+    "classicMojito": {
+      "name": "موهيتو كلاسيك",
+      "description": "نعناع طازج مع ليمون وصودا"
+    },
+    "strawberryMojito": {
+      "name": "موهيتو الفراولة",
+      "description": "فراولة طازجة مع نعناع منعش"
+    },
+    "vanillaIceCream": {
+      "name": "آيس كريم فانيلا",
+      "description": "آيس كريم فانيلا فاخر مع صوص الشوكولاتة"
+    },
+    "chocolateIceCream": {
+      "name": "آيس كريم شوكولاتة",
+      "description": "آيس كريم شوكولاتة غني وكريمي"
+    },
+    "englishBreakfast": {
+      "name": "فطور إنجليزي",
+      "description": "بيض مقلي مع توست وأفوكادو طازج"
+    },
+    "pancakes": {
+      "name": "بان كيك",
+      "description": "بان كيك طري مع العسل والفواكه"
+    },
+    "orangeJuice": {
+      "name": "عصير برتقال",
+      "description": "عصير برتقال طازج 100%"
+    },
+    "mixedJuice": {
+      "name": "عصير مشكل",
+      "description": "مزيج من الفواكه الموسمية"
+    }
+  },
+  "footer": {
+    "followUs": "تابعنا",
+    "rights": "جميع الحقوق محفوظة",
+    "workingHours": "ساعات العمل",
+    "everyday": "كل يوم",
+    "address": "العنوان",
+    "phone": "الهاتف"
+  },
+  "language": {
+    "ar": "العربية",
+    "en": "English"
+  }
+}
