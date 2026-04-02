@@ -7,7 +7,6 @@ import SpecialOffers from "@/components/SpecialOffers";
 import MenuSection from "@/components/MenuSection";
 import Footer from "@/components/Footer";
 import Bubbles from "@/components/Bubbles";
-import WhatsAppButton from "@/components/WhatsAppButton";
 
 export const metadata: Metadata = {
   title: "Online Menu - قائمة الطعام الإلكترونية",
@@ -27,7 +26,6 @@ export default async function HomePage({ params }: { params: Promise<{ lang: str
       <SpecialOffers lang={locale} translations={t} />
       <MenuSection lang={locale} translations={t} />
       <Footer lang={locale} translations={t} />
-      <WhatsAppButton />
     </main>
   );
 }

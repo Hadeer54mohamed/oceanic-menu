@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { Instagram, Facebook, Twitter, MapPin, Phone, Clock } from 'lucide-react';
-import { type Locale } from '@/app/i18n/settings';
+import { type Locale } from '../../app/i18n/settings';
 
 interface FooterProps {
   lang: Locale;
@@ -125,6 +125,17 @@ const Footer = ({ lang, translations }: FooterProps) => {
             © 2024 {translations.brand.name}. {translations.footer.rights}.
           </p>
         </motion.div>
+        <p dir="ltr" className="mt-3 flex items-center justify-center gap-1.5 text-sm text-primary-foreground/50">
+          Designed & Developed by
+          <a
+            href="https://www.facebook.com/ENSEGYPTEG"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold text-primary-foreground/80 hover:text-primary-foreground transition-colors duration-300"
+          >
+            ENS
+          </a>
+        </p>
       </div>
     </footer>
   );

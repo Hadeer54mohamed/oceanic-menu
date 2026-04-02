@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 import { QrCode } from 'lucide-react';
 import LanguageSwitcher from './LanguageSwitcher';
 import QRCodeModal from './QRCodeModal';
-import { type Locale } from '@/app/i18n/settings';
+import { type Locale } from '../../app/i18n/settings';
 
 interface HeaderProps {
   lang: Locale;
@@ -37,17 +37,6 @@ const Header = ({ lang, translations }: HeaderProps) => {
           </motion.div>
 
           <div className="flex items-center gap-3">
-            {/* QR Code Button */}
-            <motion.button
-              onClick={() => setIsQRModalOpen(true)}
-              className="w-10 h-10 rounded-full glass-card flex items-center justify-center hover:bg-primary/10 transition-colors"
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-              aria-label="QR Code"
-            >
-              <QrCode className="w-5 h-5 text-foreground" />
-            </motion.button>
-
             <LanguageSwitcher lang={lang} translations={translations} />
           </div>
         </div>
